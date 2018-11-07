@@ -1,0 +1,25 @@
+h1{
+	font-family: vision;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: -1px;
+}
+
+h2{
+	font-family: vision;
+	font-style: thin;
+	text-align: center;
+	margin-top: 0px;
+	padding-bottom: 10px;
+}
+
+.banner{
+	background-image: url(images/Capture.png);
+	padding: 50px;
+}
+
+.container{
+	margin: 25px;
+	text-align: center;
+	background-size: 100%;
+}
